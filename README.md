@@ -1,6 +1,9 @@
 # Xique-Xique-Cloud
 Plataforma de monitoramento, backup e gerenciamento de arquivos com foco em segurança, automação e computação em nuvem.
 
+
+Participantes:
+
 Gedson Éber Ribeiro Silva (01770703)
 
 Júlio Ferreira da Silva Neto (01808964)
