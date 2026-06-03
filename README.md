@@ -1,6 +1,6 @@
 # Xique-Xique-Cloud
-Plataforma de monitoramento, backup e gerenciamento de arquivos com foco em segurança, automação e computação em nuvem.
 
+ique-Xique Cloud é uma plataforma inteligente de monitoramento, backup automatizado e segurança da informação inspirada em soluções modernas de computação em nuvem.
 
 Participantes:
 
