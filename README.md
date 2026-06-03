@@ -1,6 +1,6 @@
 # Xique-Xique-Cloud
 
-ique-Xique Cloud é uma plataforma inteligente de monitoramento, backup automatizado e segurança da informação inspirada em soluções modernas de computação em nuvem.
+Xique-Xique Cloud é uma plataforma inteligente de computação em nuvem desenvolvida a partir da evolução do projeto SysWatch Lite. O sistema integra monitoramento de arquivos, backup automatizado, criptografia de dados, gerenciamento de usuários e armazenamento seguro de informações. Utilizando tecnologias como Python, Flask, SQLite, Linux, Windows e VirtualBox, a plataforma busca oferecer uma solução moderna para segurança da informação, automação de processos e gerenciamento de infraestrutura virtualizada.
 
 Participantes:
 
